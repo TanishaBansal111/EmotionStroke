@@ -1,9 +1,9 @@
-# Gen AI Project — Pic-AI-sso
+# Gen AI Project — EmotionStroke
 
-This repository contains the full pipeline, data preparation scripts, and model utilities used for the **Gen AI Project** titled **Pic-AI-sso**, created by **Sarthak Kumar** and **Navansh Krishna Goswami**
+This repository contains the full pipeline, data preparation scripts, and model utilities used for the **Gen AI Project** titled **EmotionStroke**, created by **Tanisha** and **Bhavneet Kaur**
 
 ## Project Overview
-Pic-AI-sso is a generative AI project focused on **emotion‑conditioned image generation**. The system takes structured emotional metadata (emotion, valence, arousal, color scheme, lighting, composition, situation) and uses them to craft expressive prompts suitable for training text-to-image diffusion models.
+EmotionStroke is a generative AI project focused on **emotion‑conditioned image generation**. The system takes structured emotional metadata (emotion, valence, arousal, color scheme, lighting, composition, situation) and uses them to craft expressive prompts suitable for training text-to-image diffusion models.
 
 ## Repository Structure
 ```
