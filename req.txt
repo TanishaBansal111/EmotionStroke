@@ -1,0 +1,11 @@
+torch>=2.2.0
+torchvision
+diffusers==0.29.2
+transformers>=4.41.0
+accelerate>=0.28.0
+datasets>=2.20.0
+safetensors
+pillow
+numpy
+pandas
+tqdm

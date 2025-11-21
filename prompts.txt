@@ -1,0 +1,6 @@
+an expressive artwork, {emotion} mood, {valence} valence, {arousal} arousal, {color} colors, {lighting} lighting, {composition}, in a painterly style, depicting {situation}
+# Defaults:
+# color=harmonious
+# lighting=soft
+# composition=balanced composition
+# situation=an evocative scene
